@@ -1,8 +1,8 @@
 # 👋 Hello
 
-🧔🏻 I'm Ross, a senior software developer with over 12 years experience, currently working at [Vorboss](http://www.vorboss.com). 
+🧔🏻 I'm Ross, a software developer with over 20 years experience, currently Head of Solutions Engineering at [Vorboss](http://www.vorboss.com). 
 
-👨‍💻 I enjoy building things in PHP, Golang, React and other shiny things.
+👨‍💻 I enjoy building things to solve problems.
 
 🧰 I also love hardware hacking and putting Raspberry Pis anywhere that they'll fit.
 
